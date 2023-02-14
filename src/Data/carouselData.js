@@ -7,28 +7,53 @@ import lap from '../images/lap.jpg'
 export const carouselData = [
     {
         img: tv,
-        heading: 'Tzuyu',
-        by: "Happy New Year all friends! #2023"
+        heading: 'Samsung and Google Combine Forces in New Mixed Realit',
+        by: "Partnership BY SCOTT STEIN"
     },
     {
         img: vr,
-        heading: 'Watch Super Bowl 2023 Today for Free Online: Start Time, TV Network and Streaming',
-        by: "BY MATT ELLIOTT"
+        heading: 'Samsung Galaxy S23 Ultra Review: The King of Extra',
+        by: "BY LISA EADICICCO"
     },
     {
         img: phone,
-        heading: 'Samsung and Google Combine Forces in New Mixed Reality Partnership',
-        by: "BY SCOTT STEIN"
+        heading: 'Galaxy S23 Ultra: My Earliest Impressions After a Day With BY LISA EADICICCO',
+        by: "Samsung's Latest..."
     },
     {
         img: oneplus,
-        heading: 'Tzuyu',
-        by: "Happy New Year all friends! #2023"
+        heading: `Microsoft's AI-Boosted Bing Can Run Rings Around Google Search `,
+        by: "BY STEPHEN SHANKLAND"
     },
     {
         img: lap,
-        heading: 'Watch Super Bowl 2023 Today for Free Online: Start Time, TV Network and Streaming',
-        by: "BY MATT ELLIOTT"
+        heading: `Change Your LastPass Password Manager, Before It's Too Late`,
+        by: "BY ATTILA TOMASCHEK"
+    },
+    {
+        img: tv,
+        heading: 'Samsung and Google Combine Forces in New Mixed Realit',
+        by: "Partnership BY SCOTT STEIN"
+    },
+    {
+        img: vr,
+        heading: 'Samsung Galaxy S23 Ultra Review: The King of Extra',
+        by: "BY LISA EADICICCO"
+    },
+    {
+        img: phone,
+        heading: 'Galaxy S23 Ultra: My Earliest Impressions After a Day With BY LISA EADICICCO',
+        by: "Samsung's Latest..."
+    },
+    {
+        img: oneplus,
+        heading: `Microsoft's AI-Boosted Bing Can Run Rings Around Google Search `,
+        by: "BY STEPHEN SHANKLAND"
+    },
+    {
+        img: lap,
+        heading: `Change Your LastPass Password Manager, Before It's Too Late`,
+        by: "BY ATTILA TOMASCHEK"
     }
 
 ]
